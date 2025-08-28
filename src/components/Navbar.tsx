@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 21l4-7 4 7" />
                   </svg>
                 </div>
-                <span className="ml-3 text-xl font-bold text-gray-900">CleanSofa Pro</span>
+                <span className="ml-3 text-xl font-bold text-gray-900">Pristine Cleaning</span>
               </div>
             </Link>
           </div>

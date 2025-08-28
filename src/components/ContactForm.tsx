@@ -71,7 +71,7 @@ const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <p className="font-semibold">Phone</p>
-                  <p className="text-blue-200">+1 (555) 123-4567</p>
+                  <p className="text-blue-200">+94 77 012 7719</p>
                 </div>
               </div>
               
@@ -83,7 +83,7 @@ const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-blue-200">info@cleansofapro.com</p>
+                  <p className="text-blue-200">pristine.service@email.com</p>
                 </div>
               </div>
               
@@ -96,7 +96,7 @@ const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <p className="font-semibold">Service Area</p>
-                  <p className="text-blue-200">Greater Metro Area</p>
+                  <p className="text-blue-200">Island Wide</p>
                 </div>
               </div>
               
@@ -108,8 +108,7 @@ const ContactForm: React.FC = () => {
                 </div>
                 <div>
                   <p className="font-semibold">Hours</p>
-                  <p className="text-blue-200">Mon-Sat: 8AM-6PM</p>
-                  <p className="text-blue-200">Sun: 10AM-4PM</p>
+                  <p className="text-blue-200"> 24h</p>
                 </div>
               </div>
             </div>
